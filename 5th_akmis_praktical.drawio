@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T13:19:21.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LkRlyttTSKRLPQd_M5P_" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T17:03:35.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SNrvSytKVZYgfb8kPF3f" version="24.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="346" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,14 +13,8 @@
         <mxCell id="hyq87sj_QkP1kDlbmHtQ-2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hyq87sj_QkP1kDlbmHtQ-0">
           <mxGeometry y="120" width="320" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="hyq87sj_QkP1kDlbmHtQ-3" value="add_car(car: Car)&lt;div&gt;remove_car(VIN: String)&lt;/div&gt;&lt;div&gt;edit_car_info()&lt;/div&gt;&lt;div&gt;get_car_info_by_id()&lt;/div&gt;&lt;div&gt;get_cars_by_type()&lt;/div&gt;&lt;div&gt;get_all_cars_info()&lt;/div&gt;&lt;div&gt;list_available_cars(name: String, model: String, year: Integer)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hyq87sj_QkP1kDlbmHtQ-0">
+        <mxCell id="hyq87sj_QkP1kDlbmHtQ-3" value="add_car(car: Car)&lt;div&gt;remove_car(VIN: String)&lt;/div&gt;&lt;div&gt;edit_car_info(car: Car)&lt;/div&gt;&lt;div&gt;get_car_info_by_id(id: String)&lt;/div&gt;&lt;div&gt;get_all_cars_info()&lt;/div&gt;&lt;div&gt;list_available_cars()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hyq87sj_QkP1kDlbmHtQ-0">
           <mxGeometry y="130" width="320" height="154" as="geometry" />
-        </mxCell>
-        <mxCell id="hyq87sj_QkP1kDlbmHtQ-7" value="Авто" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="140" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="hyq87sj_QkP1kDlbmHtQ-8" value="&lt;div&gt;&lt;div&gt;name: Name&lt;/div&gt;&lt;div&gt;id: Id&lt;/div&gt;&lt;/div&gt;type: Type&lt;div&gt;color: Color&lt;/div&gt;&lt;div&gt;model&amp;nbsp; Model&amp;nbsp;&lt;/div&gt;&lt;div&gt;year: Year&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hyq87sj_QkP1kDlbmHtQ-7">
-          <mxGeometry y="26" width="160" height="94" as="geometry" />
         </mxCell>
         <mxCell id="hyq87sj_QkP1kDlbmHtQ-19" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;fontSize=12;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="hyq87sj_QkP1kDlbmHtQ-3">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -75,6 +69,30 @@
             <mxPoint x="450" y="350" as="sourcePoint" />
             <mxPoint x="640" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hyq87sj_QkP1kDlbmHtQ-33" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Авто&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="30" width="160" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="hyq87sj_QkP1kDlbmHtQ-34" value="&lt;div&gt;&lt;div&gt;- name: Name&lt;/div&gt;&lt;div&gt;- id: Id&lt;/div&gt;&lt;/div&gt;- type: Type&lt;div&gt;- color: Color&lt;/div&gt;&lt;div&gt;- model&amp;nbsp; Model&amp;nbsp;&lt;/div&gt;&lt;div&gt;- year: Year&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hyq87sj_QkP1kDlbmHtQ-33">
+          <mxGeometry y="26" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="hyq87sj_QkP1kDlbmHtQ-35" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hyq87sj_QkP1kDlbmHtQ-33">
+          <mxGeometry y="130" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hyq87sj_QkP1kDlbmHtQ-36" value="+ display_info()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hyq87sj_QkP1kDlbmHtQ-33">
+          <mxGeometry y="138" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hyq87sj_QkP1kDlbmHtQ-37" value="Покупатель" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="240" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hyq87sj_QkP1kDlbmHtQ-38" value="- Customer_id: String&lt;div&gt;- name: String&lt;/div&gt;&lt;div&gt;- contact_num: Int&lt;/div&gt;&lt;div&gt;- email: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hyq87sj_QkP1kDlbmHtQ-37">
+          <mxGeometry y="26" width="160" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="hyq87sj_QkP1kDlbmHtQ-39" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="hyq87sj_QkP1kDlbmHtQ-37">
+          <mxGeometry y="120" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="hyq87sj_QkP1kDlbmHtQ-40" value="+ view_cars()&lt;div&gt;+ test_drive ()&lt;/div&gt;&lt;div&gt;+ buy_car()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="hyq87sj_QkP1kDlbmHtQ-37">
+          <mxGeometry y="128" width="160" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
