@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T16:26:52.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xv2Wtfyo0bcOlR2z4H-Z" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-25T06:31:30.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fGdElxw1AiMQG_Z4Xmlf" version="24.2.8" type="github" pages="2">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1436" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
         <mxCell id="_WSNN6Pf5bvZOzHEQaGi-44" value="проведение &#xa;тест-драйва" style="" vertex="1" parent="3">
           <mxGeometry x="93" y="360" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-46" value="Хочет покупать" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=10;" vertex="1" parent="3">
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-46" value="Покупка" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=10;" vertex="1" parent="3">
           <mxGeometry x="81" y="460" width="134" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="_WSNN6Pf5bvZOzHEQaGi-48" value="Да " style="edgeStyle=elbowEdgeStyle;elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="_WSNN6Pf5bvZOzHEQaGi-44" target="_WSNN6Pf5bvZOzHEQaGi-46">
@@ -68,8 +68,22 @@
             <mxPoint y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3" source="_WSNN6Pf5bvZOzHEQaGi-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-134" y="710" as="targetPoint" />
+            <mxPoint x="373.22" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4" value="Касса" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="585" y="110" width="280" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#c35454;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4" source="_WSNN6Pf5bvZOzHEQaGi-55" target="_WSNN6Pf5bvZOzHEQaGi-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="4" source="_WSNN6Pf5bvZOzHEQaGi-45" target="_WSNN6Pf5bvZOzHEQaGi-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_WSNN6Pf5bvZOzHEQaGi-45" value="Оплата" style="" vertex="1" parent="4">
           <mxGeometry x="75" y="471.25" width="110" height="50" as="geometry" />
@@ -81,8 +95,41 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-52" value="Тест драйв " style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=10;" vertex="1" parent="4">
-          <mxGeometry x="63" y="560" width="134" height="72.5" as="geometry" />
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="640" as="targetPoint" />
+            <mxPoint x="185" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-52" value="Оплата" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=10;" vertex="1" parent="4">
+          <mxGeometry x="81.5" y="680" width="97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-55" value="Выставление счета" style="" vertex="1" parent="4">
+          <mxGeometry x="75" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-62" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4" source="_WSNN6Pf5bvZOzHEQaGi-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="780" as="sourcePoint" />
+            <mxPoint x="215" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-64" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="640" as="sourcePoint" />
+            <mxPoint x="215" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-63" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="640" as="sourcePoint" />
+            <mxPoint x="215" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-66" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Не&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Прошла&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="4">
+          <mxGeometry x="165" y="660" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSNN6Pf5bvZOzHEQaGi-65" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Прошла&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="4">
+          <mxGeometry x="35" y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="20" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="10" target="21" edge="1">
           <mxGeometry relative="1" as="geometry">
