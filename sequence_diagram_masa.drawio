@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T17:15:59.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gjMiL5ICB93bk3RclX6V" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T17:16:04.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tOlLCKL4CcO6HbKBkUgC" version="24.3.1" type="github">
   <diagram id="cDf2xeNGMrpcIZheGJRy" name="Page-2">
     <mxGraphModel dx="2288" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,8 +130,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RitFxOHwyhnGJ7xGlJLN-1" value="MASA&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="-1122" width="60" height="30" as="geometry" />
+        <mxCell id="RitFxOHwyhnGJ7xGlJLN-1" value="&lt;span style=&quot;font-family: Verdana; font-weight: 700;&quot;&gt;Школа английского языка MASA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-555" y="-1122" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
