@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T17:16:44.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CzSDrztgNQzp0C_mOmsa" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T17:17:10.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zEbW7Z3gpi8Oycj7aace" version="24.3.1" type="github">
   <diagram id="cDf2xeNGMrpcIZheGJRy" name="Page-2">
     <mxGraphModel dx="2288" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="IkMieCKmTwQg4MCk2JD3-30" value="сообщение об покупке" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" edge="1" parent="1" source="IkMieCKmTwQg4MCk2JD3-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-138" y="-622" as="sourcePoint" />
-            <mxPoint x="-711" y="-622" as="targetPoint" />
+            <mxPoint x="-700" y="-620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IkMieCKmTwQg4MCk2JD3-31" value="введение данных" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;entryX=1;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
