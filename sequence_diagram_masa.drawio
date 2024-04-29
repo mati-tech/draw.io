@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T17:07:36.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FOy98leBh9eYFZywMDz-" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T17:08:15.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="z0UHxO99vHUBX7n-T04W" version="24.3.1" type="github">
   <diagram id="cDf2xeNGMrpcIZheGJRy" name="Page-2">
     <mxGraphModel dx="2288" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="IkMieCKmTwQg4MCk2JD3-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="IkMieCKmTwQg4MCk2JD3-1">
           <mxGeometry x="5" y="50" width="10" height="343" as="geometry" />
         </mxCell>
-        <mxCell id="IkMieCKmTwQg4MCk2JD3-3" value="Клиент&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="-1000" width="58" height="41" as="geometry" />
+        <mxCell id="IkMieCKmTwQg4MCk2JD3-3" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Студент&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-746" y="-1004" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IkMieCKmTwQg4MCk2JD3-4" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
           <mxGeometry x="-645" y="-978" width="50" height="388" as="geometry" />
