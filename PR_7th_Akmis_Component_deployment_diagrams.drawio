@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T17:21:27.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="L5DmaKgIL0po9-gWvZvX" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T17:24:47.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eLnH7-Fzvuu-zHQXqqXR" version="24.4.0" type="github" pages="2">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="651" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="eIVp__R6nEYvsknZ3y0x-10" value="Реализует интерфейс Delivery" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="240" width="180" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="eIVp__R6nEYvsknZ3y0x-11" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="70" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6XnjfjkZAE3h-tdR2Nu3-2" value="CarSalon.exe" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
@@ -164,6 +161,17 @@
             <mxPoint x="750" y="420" as="sourcePoint" />
             <mxPoint x="800" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_T148nqIjC2XUXLy-xuM" name="Page-2">
+    <mxGraphModel dx="1042" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UXhhFiWsnYcqmBZMr6Oi-1" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
