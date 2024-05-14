@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T17:32:34.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7eF5q_xClUKYyifa4yFv" version="24.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-14T17:32:40.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TNi3FaUkjcFmGhbmRK0C" version="24.4.0" type="github" pages="2">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1158" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
           <mxGeometry x="392.5" y="610" width="135" height="85" as="geometry" />
         </mxCell>
         <mxCell id="UXhhFiWsnYcqmBZMr6Oi-5" value="Клиент" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="630" width="100" height="80" as="geometry" />
+          <mxGeometry x="50" y="620" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UXhhFiWsnYcqmBZMr6Oi-6" value="Система продажа авто" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="830" width="180" height="120" as="geometry" />
