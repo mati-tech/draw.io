@@ -19,15 +19,6 @@
         <mxCell id="1aq5z8RRxSf0HFVu-Xhb-5" value="подверждение оплаты" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="340" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1aq5z8RRxSf0HFVu-Xhb-6" value="&lt;div&gt;Обеспечить покупателя&lt;/div&gt;&lt;div&gt;информацией&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1aq5z8RRxSf0HFVu-Xhb-7" value="Оставить отзыв о товаре" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="10" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1aq5z8RRxSf0HFVu-Xhb-8" value="Отменить заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="124" width="110" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1aq5z8RRxSf0HFVu-Xhb-9" value="Отслежить статуса доставки&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="760" width="110" height="60" as="geometry" />
         </mxCell>
@@ -161,7 +152,7 @@
             <mxPoint x="780" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1aq5z8RRxSf0HFVu-Xhb-56" value="отзыв клиентов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1aq5z8RRxSf0HFVu-Xhb-56" value="Оставить отзыв о товаре" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="760" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1aq5z8RRxSf0HFVu-Xhb-57" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.451;exitY=0.974;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1aq5z8RRxSf0HFVu-Xhb-12" target="1aq5z8RRxSf0HFVu-Xhb-56">
