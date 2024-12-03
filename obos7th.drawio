@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="UHpLLiExYBPQ78zIg1X-">
-    <mxGraphModel dx="3500" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-45" value="Email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="390" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OEwbnkzeo_pts57FesmK-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEwbnkzeo_pts57FesmK-46" target="OEwbnkzeo_pts57FesmK-306">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-46" value="Internet Shopping" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="790" y="640" width="650" height="510" as="geometry" />
@@ -75,6 +78,9 @@
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-67" value="Yandex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1135" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OEwbnkzeo_pts57FesmK-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEwbnkzeo_pts57FesmK-68" target="OEwbnkzeo_pts57FesmK-121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-68" value="Internet Shopping" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="88.13000000000011" y="1200" width="650" height="510" as="geometry" />
@@ -181,6 +187,9 @@
         <mxCell id="OEwbnkzeo_pts57FesmK-120" value="имя п&lt;span style=&quot;background-color: initial;&quot;&gt;родукта&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="323.1300000000001" y="1610" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OEwbnkzeo_pts57FesmK-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEwbnkzeo_pts57FesmK-121" target="OEwbnkzeo_pts57FesmK-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-121" value="Internet Shopping" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="790" y="1200" width="650" height="510" as="geometry" />
         </mxCell>
@@ -246,6 +255,14 @@
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-162" value="имя п&lt;span style=&quot;background-color: initial;&quot;&gt;родукта&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1485" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OEwbnkzeo_pts57FesmK-355" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEwbnkzeo_pts57FesmK-163" target="OEwbnkzeo_pts57FesmK-209">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="1740" />
+              <mxPoint x="415" y="1740" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-163" value="Internet Shopping" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1485" y="1200" width="650" height="510" as="geometry" />
@@ -346,6 +363,9 @@
         <mxCell id="OEwbnkzeo_pts57FesmK-203" value="&lt;font style=&quot;font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;Перейти к оплате&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1716.25" y="1580" width="148.75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OEwbnkzeo_pts57FesmK-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEwbnkzeo_pts57FesmK-209" target="OEwbnkzeo_pts57FesmK-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-209" value="Internet Shopping" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="90" y="1770" width="650" height="510" as="geometry" />
         </mxCell>
@@ -417,6 +437,9 @@
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-241" value="Тинькоф" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="417.5" y="2110" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OEwbnkzeo_pts57FesmK-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEwbnkzeo_pts57FesmK-243" target="OEwbnkzeo_pts57FesmK-269">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-243" value="Internet Shopping" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="775" y="1770" width="650" height="510" as="geometry" />
@@ -588,6 +611,14 @@
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-305" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/profile-circled-128.png" vertex="1" parent="1">
           <mxGeometry x="396" y="735.75" width="34.25" height="34.25" as="geometry" />
+        </mxCell>
+        <mxCell id="OEwbnkzeo_pts57FesmK-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEwbnkzeo_pts57FesmK-306" target="OEwbnkzeo_pts57FesmK-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1795" y="1170" />
+              <mxPoint x="413" y="1170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-306" value="Internet Shopping" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1470" y="640" width="650" height="510" as="geometry" />
