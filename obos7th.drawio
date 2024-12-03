@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="UHpLLiExYBPQ78zIg1X-">
-    <mxGraphModel dx="3500" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,22 +16,22 @@
         <mxCell id="OEwbnkzeo_pts57FesmK-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="780" width="180" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="OEwbnkzeo_pts57FesmK-40" value="Yandex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OEwbnkzeo_pts57FesmK-40" value="Yandex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="390" y="940" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OEwbnkzeo_pts57FesmK-41" value="Vk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OEwbnkzeo_pts57FesmK-41" value="Vk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="390" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OEwbnkzeo_pts57FesmK-42" value="Нрмер телефона" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OEwbnkzeo_pts57FesmK-42" value="Нрмер телефона" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="370" y="860" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OEwbnkzeo_pts57FesmK-43" value="Google" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OEwbnkzeo_pts57FesmK-43" value="Google" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="390" y="900" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-44" value="АВТОРИЗАЦИЯ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="710" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OEwbnkzeo_pts57FesmK-45" value="Email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OEwbnkzeo_pts57FesmK-45" value="Email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="390" y="980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OEwbnkzeo_pts57FesmK-46" target="OEwbnkzeo_pts57FesmK-68">
@@ -613,6 +613,9 @@
         </mxCell>
         <mxCell id="OEwbnkzeo_pts57FesmK-303" value="имя п&lt;span style=&quot;background-color: initial;&quot;&gt;родукта&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1025" y="2164" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OEwbnkzeo_pts57FesmK-305" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/profile-circled-128.png" vertex="1" parent="1">
+          <mxGeometry x="396" y="735.75" width="34.25" height="34.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
