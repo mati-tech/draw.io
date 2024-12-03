@@ -1182,7 +1182,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u10hK8qxfYY55si0iEBM" name="Page-3">
-    <mxGraphModel dx="695" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1199,7 +1199,7 @@
           <mxGeometry x="40" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zUjDVE7oAuY9gyhu_MnX-4" value="Server" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="304" y="380" width="656" height="450" as="geometry" />
+          <mxGeometry x="304" y="380" width="656" height="360" as="geometry" />
         </mxCell>
         <mxCell id="zUjDVE7oAuY9gyhu_MnX-5" value="&amp;lt;&amp;lt;processor&amp;gt;&amp;gt;&lt;br&gt;Caching server" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="zUjDVE7oAuY9gyhu_MnX-4">
           <mxGeometry x="130" y="160" width="120" height="80" as="geometry" />
