@@ -1324,7 +1324,7 @@
           <mxGeometry x="380" y="1000" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8H9uWHjXklh9B3BVlOoK-11" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="750" y="970" width="180" height="120" as="geometry" />
+          <mxGeometry x="780" y="970" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8H9uWHjXklh9B3BVlOoK-12" value="Сервер БД" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="790" y="1020" width="80" height="30" as="geometry" />
