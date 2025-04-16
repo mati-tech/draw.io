@@ -358,7 +358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qme-tNFAiUKfDgfy9BpP" name="Page-2">
-    <mxGraphModel dx="522" dy="-551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1091" dy="124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -659,14 +659,15 @@
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iq3UHsk0kE87LlkwrwXL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=ERmany;endFill=0;exitX=0.529;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iq3UHsk0kE87LlkwrwXL-5" target="_c2UHyZHeD7fbtqvH8LF-8">
+        <mxCell id="iq3UHsk0kE87LlkwrwXL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=oval;startFill=1;endArrow=ERmany;endFill=0;entryX=0.516;entryY=0.935;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_c2UHyZHeD7fbtqvH8LF-8" target="iq3UHsk0kE87LlkwrwXL-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="971" y="2000" />
+              <mxPoint x="970" y="2020" />
               <mxPoint x="970" y="2000" />
+              <mxPoint x="968" y="2000" />
             </Array>
             <mxPoint x="1170" y="2129" as="targetPoint" />
-            <mxPoint x="1065" y="2130" as="sourcePoint" />
+            <mxPoint x="1050" y="1980" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iq3UHsk0kE87LlkwrwXL-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;содержит&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iq3UHsk0kE87LlkwrwXL-13">
