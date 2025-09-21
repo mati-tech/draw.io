@@ -1,9 +1,413 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="37BSEBNf0XaFQHF_BJRE">
-    <mxGraphModel>
+    <mxGraphModel dx="3114" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-1" value="&lt;b&gt;Функции интернет- магазина электроники&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-1" target="NG2ErvIE6pe2cnos1UDm-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="400" as="sourcePoint" />
+            <mxPoint x="280" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="160" />
+              <mxPoint x="140" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="290" as="sourcePoint" />
+            <mxPoint x="600" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="160" />
+              <mxPoint x="600" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-4" target="NG2ErvIE6pe2cnos1UDm-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="270" />
+              <mxPoint x="-100" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-4" target="NG2ErvIE6pe2cnos1UDm-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="270" />
+              <mxPoint x="60" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-4" target="NG2ErvIE6pe2cnos1UDm-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="270" />
+              <mxPoint x="220" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-4" value="&lt;b&gt;Основные&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-5" target="NG2ErvIE6pe2cnos1UDm-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-5" target="NG2ErvIE6pe2cnos1UDm-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-5" target="NG2ErvIE6pe2cnos1UDm-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-5" target="NG2ErvIE6pe2cnos1UDm-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-5" target="NG2ErvIE6pe2cnos1UDm-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-5" value="&lt;b&gt;Служебные&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-6" target="NG2ErvIE6pe2cnos1UDm-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-6" target="NG2ErvIE6pe2cnos1UDm-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-6" target="NG2ErvIE6pe2cnos1UDm-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-6" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Работа с товарами&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-7" target="NG2ErvIE6pe2cnos1UDm-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-7" target="NG2ErvIE6pe2cnos1UDm-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-7" target="NG2ErvIE6pe2cnos1UDm-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-7" target="NG2ErvIE6pe2cnos1UDm-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-7" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Просмотр товаров&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-8" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Оформление покупки&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-9" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;История и отслеживание&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Просмотр каталога товаров&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-11" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Просмотр детальной&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;информации о товаре&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Просмотр «Избранного»&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-4" target="NG2ErvIE6pe2cnos1UDm-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="270" />
+              <mxPoint x="389" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Поиск товаров с подсказк-&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ами и историей&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Добавление товара в корзину&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Просмотр и управление корзиной&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-25" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Добавление товара в «Избран&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ное»&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="170" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="170" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="170" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="170" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Оформление заказа&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-33" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Выбор слособа доставки и&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;оплаты&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Управление адресами&amp;nbsp;доставки&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-35" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Просмотр итоговой суммы&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;заказа&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="330" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="330" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="330" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;· Просмотр истории заказов&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-41" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Отслеживание статуса тек-&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ущих заказов&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-42" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Просмотр деталей заказа&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-44" target="NG2ErvIE6pe2cnos1UDm-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="300" />
+              <mxPoint x="730" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-44" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Управление учётными&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;записямй пользователей&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-46" target="NG2ErvIE6pe2cnos1UDm-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="939.9999999999995" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-46" target="NG2ErvIE6pe2cnos1UDm-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Аналитика и отчеты&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-47" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Системные настройки&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.132;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="585" as="targetPoint" />
+            <mxPoint x="720" y="545" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.125;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-48" target="NG2ErvIE6pe2cnos1UDm-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="763" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="765" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="NG2ErvIE6pe2cnos1UDm-48" target="NG2ErvIE6pe2cnos1UDm-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Работа с товарами&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-49" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Oбpaботка заказов&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-54" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Просмотр списка&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot;&gt;полвзоват&lt;/font&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;елей и&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px;&quot;&gt;&amp;nbsp;редактирование про&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px;&quot;&gt;филей&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="660" y="710" />
+              <mxPoint x="420" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="660" y="710" />
+              <mxPoint x="580" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="660" y="710" />
+              <mxPoint x="740" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-58" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Детализациа заказов&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-59" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Просмотр всех заказов&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-60" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Изменение статуса заказа&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-61" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Фильтрация заказов&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-61" source="NG2ErvIE6pe2cnos1UDm-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="700" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="660" y="710" />
+              <mxPoint x="909" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-63" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Формирование отчетов&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-64" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Просмотр ключевой аналитики&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1079.9999999999995" y="500" as="targetPoint" />
+            <mxPoint x="860" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1140" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="NG2ErvIE6pe2cnos1UDm-75" source="NG2ErvIE6pe2cnos1UDm-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="720" y="480" />
+              <mxPoint x="1140" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-74" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Настройки магазина (контакты,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;условия доставки и оплаты)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-75" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Упровление ролами&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;администраторов&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-77" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;CRUD товаров (добавление,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;редактнрование, удаление)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-79" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Управление медиа товарами&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NG2ErvIE6pe2cnos1UDm-80" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Управление остатками на скла&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;де&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
